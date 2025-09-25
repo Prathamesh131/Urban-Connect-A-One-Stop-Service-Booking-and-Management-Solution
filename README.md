@@ -66,11 +66,7 @@ This solution is built using modern web technologies including **ReactJS**, **Sp
 
 - [SAI MOURYA N DODDAMANI](https://github.com/Saimourya1751600)
 
-- [SANATH SHETTY](https://github.com/sanathshetty777)
-
-- [SHASHANK R PATIL](https://github.com/shashankpatil92003)
-
-- [VIDHAAN VISWAS](https://github.com/vidhaanviswas)
+- Prathamesh Shekhar Naik(https://github.com/Prathamesh131)
 
 Special thanks to our OOAD course instructors.
 
